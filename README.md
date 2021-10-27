@@ -4,11 +4,11 @@ Digital Innovetion One.
 
 Esse é o repositório da nossa aula de Flexbox, login do Instagram!
 
-PROF:Gabriela Pinheiro.
+PROF:
 
 ### Os requisitos são:
 
 - HTML básico
 - CSS básico
 
-## 🚀 Let's go! 🚀# instagram
+## 🚀 Let's go! 🚀# CSS flex
